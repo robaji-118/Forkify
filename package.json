@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "recipe aplication",
   "scripts": {
-    "start": "parcel index.html --open",
+    "start": "parcel index.html --open" ,
     "build": "parcel build index.html"
   },
   "author": "Rojabby",
