@@ -4,7 +4,8 @@
   "description": "recipe aplication",
   "scripts": {
     "start": "parcel index.html --open" ,
-    "build": "parcel build index.html --dist-dir dist --public-url ./"
+    "build": "npm run build:parcel",
+    "build:parcel": "parcel build index.html --dist-dir dist --public-url ./"
   },
   "engines": {
     "node": "22.x"
