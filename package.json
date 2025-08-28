@@ -1,24 +1,28 @@
 {
-  "name": "forkify",
+  "name": "forkify-app",
   "version": "1.0.0",
-  "description": "recipe aplication",
+  "description": "Recipe Application",
+  "targets": {
+    "main": {
+      "source": "index.html",
+      "distDir": "dist"
+    }
+  },
   "scripts": {
     "start": "parcel index.html --open",
-    "build": "parcel build index.html --dist-dir dist --public-url /"
+    "build": "parcel build index.html --dist-dir dist"
   },
-  "engines": {
-    "node": "20.x"
-  },
-  "author": "Rojabby",
+  "author": "Rojaby Syihabudin",
   "license": "ISC",
-  "dependencies": {
-    "core-js": "^3.45.1",
-    "fraction.js": "^5.3.4",
-    "parcel": "^2.15.4",
-    "regenerator-runtime": "^0.14.1"
-  },
   "devDependencies": {
-    "@parcel/transformer-sass": "^2.15.4",
-    "sass": "^1.91.0"
+    "@parcel/transformer-sass": "^2.13.3",
+    "parcel": "^2.13.3",
+    "svgo": "^3.3.2"
+  },
+  "dependencies": {
+    "core-js": "^3.41.0",
+    "fraction.js": "^5.3.4",
+    "fractional": "^1.0.0",
+    "regenerator-runtime": "^0.14.1"
   }
 }
