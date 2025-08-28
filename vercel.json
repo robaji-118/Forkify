@@ -1,0 +1,15 @@
+{
+  "builds": [
+    {
+      "src": "index.html",
+      "use": "@vercel/static",
+      "command": "npm run build"
+    }
+  ],
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "/$1"
+    }
+  ]
+}
