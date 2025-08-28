@@ -6,6 +6,9 @@
     "start": "parcel index.html --open" ,
     "build": "parcel build index.html --dist-dir dist --public-url ./"
   },
+  "engines": {
+    "node": "22.x"
+  },
   "author": "Rojabby",
   "license": "ISC",
   "devDependencies": {

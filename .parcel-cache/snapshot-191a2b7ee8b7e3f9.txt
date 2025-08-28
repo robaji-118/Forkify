@@ -115,7 +115,7 @@
 65E:\rojabidev\Course pkl\Progress Project\18. Forkify\node_modules134007349207183740 1
 70E:\rojabidev\Course pkl\Progress Project\18. Forkify\package-lock.json134007349209204247 0
 99E:\rojabidev\Course pkl\Progress Project\18. Forkify\node_modules\@swc\helpers\_\_iterable_to_array134006508989405555 1
-65E:\rojabidev\Course pkl\Progress Project\18. Forkify\package.json134007349207263742 0
+65E:\rojabidev\Course pkl\Progress Project\18. Forkify\package.json134007542272018919 0
 108E:\rojabidev\Course pkl\Progress Project\18. Forkify\node_modules\core-js\features\string\virtual\pad-end.js134006652155960554 0
 90E:\rojabidev\Course pkl\Progress Project\18. Forkify\node_modules\json5\lib\stringify.d.ts134006508920148942 0
 97E:\rojabidev\Course pkl\Progress Project\18. Forkify\node_modules\caniuse-lite\data\regions\GF.js134006508995473660 0
