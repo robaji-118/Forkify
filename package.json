@@ -8,7 +8,7 @@
     "build:parcel": "parcel build index.html --dist-dir dist --public-url ./"
   },
   "engines": {
-    "node": "22.x"
+    "node": "20.x"
   },
   "author": "Rojabby",
   "license": "ISC",
